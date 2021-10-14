@@ -6,6 +6,7 @@ public class helloGit {
         System.out.println("helloGit");
         System.out.println("更新1");
         System.out.println("更新2");
+        System.out.println("更新3");
     }
 
 }
